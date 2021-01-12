@@ -1,0 +1,20 @@
+ion-content {
+  background: linear-gradient(to top, #a8c0ff, #3f2b96);
+}
+
+h2 {
+  color: #36D1DC;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  text-align: justify;
+}
+
+h3 {
+  color: chocolate;
+}
+
+ion-item {
+  background: #ffffff;
+}
